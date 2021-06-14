@@ -1,0 +1,12 @@
+C:\Users\30694\source\repos\SchoolProject\obj\Debug\SchoolProject.csprojAssemblyReference.cache
+C:\Users\30694\source\repos\SchoolProject\obj\Debug\SchoolProject.csproj.CoreCompileInputs.cache
+C:\Users\30694\source\repos\SchoolProject\bin\Debug\SchoolProject.exe.config
+C:\Users\30694\source\repos\SchoolProject\bin\Debug\SchoolProject.exe
+C:\Users\30694\source\repos\SchoolProject\bin\Debug\SchoolProject.pdb
+C:\Users\30694\source\repos\SchoolProject\bin\Debug\EntityFramework.dll
+C:\Users\30694\source\repos\SchoolProject\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\30694\source\repos\SchoolProject\bin\Debug\EntityFramework.xml
+C:\Users\30694\source\repos\SchoolProject\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\30694\source\repos\SchoolProject\obj\Debug\SchoolProject.csproj.CopyComplete
+C:\Users\30694\source\repos\SchoolProject\obj\Debug\SchoolProject.exe
+C:\Users\30694\source\repos\SchoolProject\obj\Debug\SchoolProject.pdb
